@@ -24,8 +24,6 @@ Open a web browser and navigate to the application URL.
 # Usage
 User Verification: Users can access the verification system by visiting the provided URL and entering the certificate code to check its authenticity.
 Admin Panel: Access the admin panel by navigating to /admin and log in with appropriate credentials. Here, you can add and manage certificates.
-License
-This project is open-source and is available under the MIT License.
 
 # Support and Feedback
 If you encounter issues or have any questions, please feel free to open an issue on the project's GitHub repository.
