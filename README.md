@@ -16,7 +16,7 @@ Web browser
 
 # Installation
 Clone this repository to your web server directory.
-Set up the MongoDB and MySQL databases and update the database connection settings in config.php.
+Set up the MongoDB and update the database connection settings in config.php.
 Customize the CSS and JavaScript as needed to match your branding and functionality.
 Ensure your web server is correctly configured to serve PHP scripts.
 Open a web browser and navigate to the application URL.
